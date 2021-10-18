@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Impact';
+    src: url('../fonts/Impact.eot');
+    src: url('../fonts/Impact.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Impact.woff') format('woff'),
+        url('../fonts/Impact.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tahoma';
+    src: url('../fonts/Tahoma.eot');
+    src: url('../fonts/Tahoma.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Tahoma.woff') format('woff'),
+        url('../fonts/Tahoma.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Regular.eot');
+    src: url('../fonts/Cuprum-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cuprum-Regular.woff') format('woff'),
+        url('../fonts/Cuprum-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Bold.eot');
+    src: url('../fonts/Cuprum-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Cuprum-Bold.woff') format('woff'),
+    url('../fonts/Cuprum-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    }
